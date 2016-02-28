@@ -1,0 +1,28 @@
+_repo: The-Problem-of-the-Ohio-Mounds_4248
+creator:
+  author:
+    agent_name: Thomas, Cyrus
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '1415'
+    url: http://www.gutenberg.org/2009/agents/1415
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Thomas
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Archaeology
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Ohio'
+- !lcc 'E011'
+- !lcsh 'Mounds -- Ohio'
+- !lcsh 'Ohio -- Antiquities'
+title: The Problem of the Ohio Mounds
+url: http://www.gutenberg.org/ebooks/4248
